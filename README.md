@@ -10,7 +10,7 @@
 2. Hvað gera eftirfarandi Git skipanir?
    * git clone - git clone kóperar núverandi git repository.
    * git status - sýnir þér stöðuna á working directoryinu og staging area sem að leyfir þér að sjá hvaða breytur hafa verið staged og hverjar hafa ekki.
-   * git diff -
+   * git diff - Tekur tvö inntök og sýnir breytur milli þeirra. Þetta geta verið commit, branches, skrár og meira.
 3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
    * git log -
    * git checkout -
