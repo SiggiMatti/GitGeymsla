@@ -9,7 +9,7 @@
    * mkdir - mkdir stendur fyrir make directory og býr til nýtt directory.
 2. Hvað gera eftirfarandi Git skipanir?
    * git clone - git clone kóperar núverandi git repository.
-   * git status -
+   * git status - sýnir þér stöðuna á working directoryinu og staging area sem að leyfir þér að sjá hvaða breytur hafa verið staged og hverjar hafa ekki.
    * git diff -
 3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
    * git log -
