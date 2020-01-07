@@ -4,7 +4,7 @@
 
 1. Hvað gera eftirfarandi Linux skipanir?
    * cd - cd stendur fyrir change directory og er notað til að breyta um directory.
-   * ls -
+   * ls - ls er notað til að lista upplýsingar um skrár og directories.
    * pwd -
    * mkdir -
 2. Hvað gera eftirfarandi Git skipanir?
