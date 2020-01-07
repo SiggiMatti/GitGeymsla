@@ -6,7 +6,7 @@
    * cd - cd stendur fyrir change directory og er notað til að breyta um directory.
    * ls - ls er notað til að lista upplýsingar um skrár og directories.
    * pwd - pwd stendur fyrir print working directory og sýnir hvar þú ert staddur.
-   * mkdir -
+   * mkdir - mkdir stendur fyrir make directory og býr til nýtt directory.
 2. Hvað gera eftirfarandi Git skipanir?
    * git clone
    * git status
